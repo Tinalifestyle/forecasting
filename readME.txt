@@ -1,3 +1,3 @@
-都好几次vv的是吧好的不是
+neural network
 
-的碎骨的宿舍的风格
+deep learning
